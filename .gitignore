@@ -7,5 +7,7 @@
 /dataSources/
 /dataSources.local.xml
 /Data/
-/trafficIncidentData.pkl
-/roadConditionData.pkl
+/Pickles/trafficIncidentData.pkl
+/Pickles/roadConditionData.pkl
+/Plots/plot_2024-11-22 12-17-16_0.png
+/Plots/plot_2024-11-22 12-17-16_1.png
